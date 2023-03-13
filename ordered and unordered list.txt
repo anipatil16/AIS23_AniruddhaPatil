@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lists Example</title>
+  </head>
+  <body>
+    <h1>Ordered List Example</h1>
+    <ol>
+      <li>First item</li>
+      <li>Second item</li>
+      <li>Third item</li>
+    </ol>
+    
+    <h1>Unordered List Example</h1>
+    <ul>
+      <li>item 1</li>
+      <li>item 2</li>
+      <li>item 3</li>
+    </ul>
+  </body>
+</html>
+
