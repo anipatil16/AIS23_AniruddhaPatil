@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSS Example</title>
+    <!-- Internal CSS -->
+    <style>
+      body {
+        background-color: #f5f5f5;
+      }
+      h1 {
+        color: blue;
+        font-size: 28px;
+      }   
+      p {
+        color: Orange;
+        font-size: 18px;
+      }
+    </style>
+    <!-- External CSS -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <h1 style="text-align:center;">Inline CSS Example</h1>
+    <p style="color:red;font-size:20px;">This is an example of inline CSS</p>  
+    <h1>Internal CSS Example</h1>
+    <p>This is an example of internal CSS</p>
+    <h1>External CSS Example</h1>
+    <p>This is an example of external CSS</p>
+  </body>
+</html>
+
